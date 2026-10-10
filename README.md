@@ -1,12 +1,12 @@
-<h1 align="center">Edrick Andreas</h1>
+<h1 align="center">📚 Repository Tugas Perkuliahan</h1>
 
-<p align="center">
-  Informatika — Universitas Majalengka
-</p>
+<h3 align="center">Edrick Andreas</h3>
+
+<p align="center">Informatika — Universitas Majalengka</p>
 
 ---
 
-## Identitas Mahasiswa
+## 👤 Identitas Mahasiswa
 
 - **Nama:** Edrick Andreas
 - **NPM:** 2514101006
@@ -16,6 +16,6 @@
 
 ---
 
-## Tentang Repository
+## 📝 Tentang Repository
 
 Repository ini digunakan untuk menyimpan tugas perkuliahan selama menempuh pendidikan di Program Studi Informatika, Universitas Majalengka.
