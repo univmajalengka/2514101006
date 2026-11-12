@@ -52,6 +52,10 @@ $totalBayar = $totalBelanja - $diskon;
 
 ## 🖥️ Tampilan Program
 
+<p align="center">
+  <img src="tampilan.jpg" alt="Tampilan Kalkulator Diskon" width="750">
+</p>
+
 - ✏️ Angka total belanja diisi lewat form, awalnya semua masih **Rp. 0**
 - 🧮 Klik **Hitung Diskon** buat lihat hasilnya
 - 🔄 Klik **Reset** kalau mau balik ke 0 lagi
@@ -80,5 +84,6 @@ $totalBayar = $totalBelanja - $diskon;
 ```
 Tugas Pertemuan 6 - 8/
 ├── README.md
-└── diskon.php
+├── diskon.php
+└── tampilan.jpg
 ```
